@@ -3,6 +3,16 @@ body{
     color:blue;
 }
 
+
 footer{
     font-size:40px;
 }
+p{
+display:grid;
+grid-gap:10px;
+}
+p{
+    display:grid;
+    grid-gap:10px;
+    }
+
