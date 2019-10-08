@@ -2,3 +2,7 @@ body{
     background:red;
     color:blue;
 }
+p{
+display:grid;
+grid-gap:10px;
+}
